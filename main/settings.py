@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     # third_party
     "ckeditor",
     "import_export",
+    'drf_yasg',
     # my_apps
     "product",
 ]
